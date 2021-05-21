@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<h1 style="background-color:black; color:white; font-size:200%; text-align:center">반갑습니다. 환영합니다!</h1>
+<hr>
+안녕하세요, 저는 경북 봉화에 있는 <b>내일학교</b>에서 생활하고 있는 <u>김하늘</u>이라고 합니다.
+<br>I like ice cream and every <strong>junk food.</strong> <i>Ha-ha.</i>
+<p>저는 지금 <mark>창업</mark>팀에서 일을 하고 있습니다.
+  <del>조금 허접한 능력으로...</del></p>
+  제가 가장 좋아하는 명언은 이것입니다.<blockquote><q>삶이 있는 한 희망은 있다  -키케로</q></blockquote>
+
+<img src="test.gif" alt="이미지에 대한 오류가 발생했습니다">
